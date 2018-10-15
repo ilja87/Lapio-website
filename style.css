@@ -1,3 +1,16 @@
-p {
-    background-color : red
+.Paahenkilotjasivuhenkilot{ /*luokkaselektori */
+/* valitsee listan kaikki alkiot ja listan sialla olevan listan alkion*/
+    color : violet;
+}
+
+.ruskeat { /* luokkaselektori */
+    color : brown;
+}
+
+#punainen {  /*tunnisteselektori */
+    color : red;
+}
+
+#paaotsikko {
+    color : blue;    
 }
